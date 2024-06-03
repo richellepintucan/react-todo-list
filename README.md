@@ -45,4 +45,4 @@ const Form = ({ addTodo }) => {
 Task Addition: Input field and button to add new tasks.
 Task Listing: Display all tasks in a list format.
 Task Deletion: Ability to delete tasks.
-Task Completion: Mark tasks as Checked.
+Task Completion: Mark tasks as Checked/Line-through.
