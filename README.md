@@ -1,4 +1,4 @@
-# React Todos
+# React Todo List
 
 > The Todo List application is designed to help users manage their daily tasks. The application allows users to add new tasks (todos), edit existing tasks, and delete tasks. This project will demonstrate the fundamental concepts of React, including state management, component lifecycle, and event handling.
 
